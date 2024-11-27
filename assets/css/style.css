@@ -1,7 +1,9 @@
 /* ---- Main Structure ---- */
 
 html, 
-body,  
+body {
+	background-color: #607D8B
+}
 #container { 
 	margin: 0; 
 	padding: 0; 
@@ -39,7 +41,7 @@ body,
 #content {
 	width: 400px;
 	float: right;
-	background: #607D8B;
+	background-color: #FFFFFF;
 	position: relative;
 	z-index: 99;
 	box-shadow: 0 0 16px 8px rgba(0,0,0,0.5);
