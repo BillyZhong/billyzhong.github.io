@@ -3,7 +3,6 @@
 html, 
 body,  
 #container { 
-	background-color: #34495e;
 	margin: 0; 
 	padding: 0; 
 	height: 100%; 
@@ -40,7 +39,7 @@ body,
 #content {
 	width: 400px;
 	float: right;
-	background: #FFFFFF;
+	background: #34495e;;
 	position: relative;
 	z-index: 99;
 	box-shadow: 0 0 16px 8px rgba(0,0,0,0.5);
